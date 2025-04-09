@@ -5,10 +5,9 @@ Diseñado con **React + Vite + Tailwind**, este hero es *moderno, responsivo y d
 
 ---
 
-## 🎥 Demo en acción
+## 🎥 Previa del proyecto
+![Agency_web](https://github.com/user-attachments/assets/38554efb-410e-4ed3-8552-4f46bec93232)
 
-Mirá este video para ver cómo funciona el chatbot:  
-👉 
 
 ---
 
